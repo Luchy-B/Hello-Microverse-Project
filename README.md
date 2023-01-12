@@ -124,14 +124,6 @@ To run tests, run the following command:
   bin/rails test test/models/article_test.rb
 
 
-
-### Deployment
-
-You can deploy this project using:
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
